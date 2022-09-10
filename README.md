@@ -2,7 +2,7 @@
 
 　プロジェクトの詳細については、以下のリンクをご参照ください。
 
-- [thkkmarketai.github.io](htttps://thkkmarketai.github.io)
+- [thkkmarketai.github.io](https://thkkmarketai.github.io)
 - [about](https://thkkmarketai.github.io/about)
 
 &emsp;
