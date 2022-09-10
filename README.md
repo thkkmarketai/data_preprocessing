@@ -7,10 +7,10 @@
 
 &emsp;
 
-1. 値データの処理 / data preprocessing
-2. 処理データの差分 / data difference among processes
-3. データの可視化 / data visualization
-4. データ尺度の変更 / change the data scale
+1. 値データの処理 / preprocess value data
+2. データの可視化 / visualize the data
+3. データ尺度の変更 / change the data scale
+4. テキストデータの処理 / preprocess text data
 
 &emsp;
 
