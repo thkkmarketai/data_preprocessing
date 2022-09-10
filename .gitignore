@@ -1,4 +1,5 @@
 .DS_Store
+.ipynb_checkpoints
 visualize_the_data.ipynb
 change_the_data_scale.ipynb
 preprocess_text_data.ipynb
