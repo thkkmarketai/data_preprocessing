@@ -10,7 +10,7 @@
 
 &emsp;
 
-1. [数値データの処理 / preprocess numerical data](https://github.com/thkkmarketai/data_preprocessing/blob/main/preprocess_value_data.ipynb)
+1. [数値データの処理 / preprocess numerical data](https://github.com/thkkmarketai/data_preprocessing/blob/main/preprocess_numerical_data.ipynb)
  - []
  - []
 2. データの視覚化 / data visualization
