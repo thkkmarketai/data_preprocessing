@@ -1,4 +1,3 @@
-
 ## **データ処理 / Data Preprocessing**
 
 　thkkmarktai.github.io、及びプロジェクトの詳細については、以下のリンクをご参照ください。
@@ -10,12 +9,12 @@
 
 &emsp;
 
-1. [数値データの処理 / preprocess numerical data](https://github.com/thkkmarketai/data_preprocessing/blob/main/preprocess_numerical_data.ipynb)
+1. [数値データの処理 / Numerical Data Preprocessing](https://github.com/thkkmarketai/data_preprocessing/blob/main/numerical_data_preprocessing.ipynb)
  - []
  - []
-2. データの視覚化 / data visualization
-3. データ尺度の変更 / change the data scale
-4. テキストデータの処理 / preprocess text data
+2. データの視覚化 / Data Visualization
+3. データ尺度の変更 / Change the Data Scale
+4. テキストデータの処理 / Text Data Preprocessing
 
 &emsp;
 
